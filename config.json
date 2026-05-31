@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedrocess",
+        "uuid": 19568080,
+        "checksum": "rj848"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
